@@ -3,6 +3,6 @@ public class Diff {
         int a=12;
         int b=19;
 
-        System.out.println("Divide of a +b ="+(a/b));
+        System.out.println("Substract of a +b ="+(a/b));
     }
 }
